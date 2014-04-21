@@ -1,0 +1,1 @@
+../comn/script.guest.favs-install.sh

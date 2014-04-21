@@ -1,1 +1,0 @@
-../ubnt1204364/script.guest.puppet-modules-install.sh

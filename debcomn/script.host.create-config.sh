@@ -1,0 +1,1 @@
+../comn/script.host.create-config.sh

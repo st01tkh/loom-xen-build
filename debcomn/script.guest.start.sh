@@ -1,0 +1,1 @@
+../comn/script.guest.start.sh
